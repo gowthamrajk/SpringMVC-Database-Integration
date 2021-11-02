@@ -18,5 +18,13 @@
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/JSP-c43e1f?style=for-the-badge&logo=jsp&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=JSTL&color=25A162&logoColor=FFFFFF&label=)
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
+
+## Server Side ⚡
+
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=DD0031&logo=Java&logoColor=FFFFFF&label=)
+![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
+![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
+![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
